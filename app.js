@@ -24,7 +24,7 @@ container.addEventListener("mouseenter", (e) => {
   dancer.style.transform = "translateZ(120px) rotateZ(-15deg)";
   description.style.transform = "translateZ(65px)";
   dates.style.transform = "translateZ(50px)";
-  purchase.style.transform = "translateZ(40px)";
+  purchase.style.transform = "translateZ(50px)";
 });
 
 //Animate Out

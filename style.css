@@ -37,13 +37,13 @@ body {
 }
 
 .dancer img {
-  width: 15rem;
+  width: 10rem;
   transition: all 0.75s ease-out;
 }
 
 .circle {
-  width: 25rem;
-  height: 25rem;
+  width: 20rem;
+  height: 20rem;
   background: linear-gradient(
     to right,
     rgba(245, 70, 60, 0.75),
