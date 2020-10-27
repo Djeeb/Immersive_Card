@@ -38,6 +38,7 @@ body {
 
 .dancer img {
   width: 15rem;
+  transition: all 0.75s ease-out;
 }
 
 .circle {
@@ -55,17 +56,20 @@ body {
 
 .info h1 {
   font-size: 2.5rem;
+  transition: all 0.75s ease-out;
 }
 .info h3 {
   font-size: 1.3rem;
   padding: 2rem 0rem;
   color: #585858;
   font-weight: lighter;
+  transition: all 0.75s ease-out;
 }
 
 .dates {
   display: flex;
   justify-content: space-between;
+  transition: all 0.75s ease-out;
 }
 
 .dates button {
@@ -97,4 +101,5 @@ button.active {
   color: white;
   cursor: pointer;
   font-weight: bolder;
+  transition: all 0.75s ease-out;
 }
